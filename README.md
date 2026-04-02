@@ -25,3 +25,7 @@ npm start
 ## 🌐 App runs on
 - Frontend: http://localhost:3000
 - Backend: http://localhost:5000
+## 📸 Screenshots
+
+### 🌐 Todo App
+![Todo App](screenshot.png)
